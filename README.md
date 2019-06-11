@@ -1,1 +1,7 @@
 # eecs375-ex4-16
+Download MNIST_training_data.csv from the link below:
+https://drive.google.com/open?id=0B3u28XMyXeBaemw2N1pBencyR0U
+
+
+Download MNIST_testing_data.csv from the link below:
+https://drive.google.com/open?id=0B3u28XMyXeBaWEo0RkdDQTdpS0k
